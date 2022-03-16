@@ -15,10 +15,9 @@ author: Rotem Dror
 
 navbar-links:
   About Me: "aboutme"
+  Submit a Query: "query"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://rtmdrr.github.io"
 
 # --- Logo --- #
 
