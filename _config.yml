@@ -16,7 +16,7 @@ author: Rotem Dror
 navbar-links:
   About Me: "aboutme"
   Submit a Query: "query"
-  Resources:
+  # Resources:
   Author's home: "https://rtmdrr.github.io"
 
 # --- Logo --- #
