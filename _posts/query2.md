@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Submit a Query
-tags: [test]
+subtitle:
 ---
 
 ### Please fill the following [form](https://forms.gle/iCBe6rToC1cRhvf99) to submit a query.
