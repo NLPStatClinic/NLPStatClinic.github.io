@@ -1,5 +1,7 @@
-***Resources***
-
+---
+layout: page
+title: Resources
+---
 
 A package that supplies fully-tested re-implementations of useful functions for significance testing: https://morioh.com/p/0e9050ef1c40
 
