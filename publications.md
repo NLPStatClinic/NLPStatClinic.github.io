@@ -2,6 +2,11 @@
 layout: page
 title: Relevant Publications
 ---
+
+* Dror R, Peled-Cohen L, Shlomov S, Reichart R. Statistical significance testing for natural language processing. Synthesis Lectures on Human Language Technologies. 2020 Apr 3;13(2):1-116.
+* 
+
+
 <!-- 
 Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf
 
