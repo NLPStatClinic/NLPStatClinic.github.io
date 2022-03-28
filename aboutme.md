@@ -11,3 +11,5 @@ My research involves developing statistically sound methodologies for empirical 
 
 The goal of this page is to help researchers implement statistically valid methods to verify the outcomes of their experiments so that their publications will be meaningful and impactful.
 More details about me can be found [here](https://rtmdrr.github.io).
+
+This initiative would not have been possible without the idea and help of Ada Wan.
