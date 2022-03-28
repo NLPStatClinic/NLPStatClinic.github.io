@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About Me
+thumbnail-img: "/assets/img/DSC_0658.JPG"
 ---
 
-My name is Rotem Dror. I am a postdoctoral researcher at the [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/) at the [Department of Computer and Information Science](https://www.cis.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/). ![image](/assets/img/658.JPG)
+My name is Rotem Dror. I am a postdoctoral researcher at the [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/) at the [Department of Computer and Information Science](https://www.cis.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/).
 
 
 My research involves developing statistically sound methodologies for empirical investigation and evaluation for Data Science with a focus on Natural Language Processing applications.
