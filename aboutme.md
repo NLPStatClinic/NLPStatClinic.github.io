@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-thumbnail-img: "/assets/img/DSC_0658.JPG"
+cover-img: "/assets/img/DSC_0658.JPG"
 ---
 
 My name is Rotem Dror. I am a postdoctoral researcher at the [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/) at the [Department of Computer and Information Science](https://www.cis.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/).
